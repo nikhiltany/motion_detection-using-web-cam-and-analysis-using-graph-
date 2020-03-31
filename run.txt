@@ -1,0 +1,1 @@
+If you are using any text like (atom) then open the terminal and write python motion_detection.py adn run it 
